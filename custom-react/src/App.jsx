@@ -2,12 +2,12 @@ import "./App.css";
 
 function App() {
   //! Using variables in components ✨
-  const userPassword = "itsMyPassword";
+  const stack = "Full Stack";
   return (
     <>
-      <h1>This is my Custom React Js 🚀</h1>
-      <p>Node.Js Vs React.Js</p>
-      <p>Password of user : {userPassword}</p>
+      <h1>Hey There!</h1>
+      <h1>My name is Akshandra Singh</h1>
+      <p>I am {stack} Developer</p>
     </>
   );
 }
